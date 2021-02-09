@@ -1,0 +1,26 @@
+.banner{
+    background: url("https://jeetechacademy.files.wordpress.com/2015/08/jeetech-academy-course-banner.jpg")center center;
+    height: 50vh;
+    position: relative;
+}
+.banner__info{
+background-color: black;
+color: white;
+padding-top: 25vh;
+padding-left: 50px;
+padding-right: 50px;
+padding-bottom: 40px;
+width: 300px;
+}
+.banner__info>button{
+    background-color: #ff7779;
+    color: white;
+    text-overflow: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.banner__info>button:hover{
+    background-color: white;
+    color: rgb(5, 5, 5);
+   
+}
